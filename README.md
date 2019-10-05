@@ -1,5 +1,3 @@
-# Surman Lab, KCL
-
 The Surman Lab is a Chemistry research group, based in the Department of Chemistry at King's College, London.
 
 This is a temporary homepage. A shiny new web page will be here soon.
