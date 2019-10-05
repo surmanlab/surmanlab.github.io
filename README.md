@@ -11,10 +11,10 @@ This is a temporary homepage. A shiny new web page will be here soon.
 
 ***
 ##### Members
- - __Andrew Surman__ _PI._
+ - __Andrew Surman__
  - __Edward Cross__ _PhD Student, from October 2019._
- - __Aliyah Saifuddin__ _PhD Student, from October 2019, working between Salehi-Reyhani, Ulmschneider & Surman groups_
- - __Siqi Du__ _Undergrad Researcher, from June 2019_
+ - __Aliyah Saifuddin__ _PhD Student, from October 2019, working between Salehi-Reyhani, Ulmschneider & Surman groups._
+ - __Siqi Du__ _Undergrad Researcher, from June 2019._
 
 We are a growing group, always on the lookout for talented fun colleagues. If you’re interested in joining the Surman Group – whether to pursue research studentships, year abroad/Erasmus studies, or a postdoctoral position – you are welcome to contact Andrew directly to discuss opportunities. 
 
