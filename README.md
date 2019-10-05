@@ -5,9 +5,9 @@ We are based in the Department of Chemistry at King's College, London. Our inter
 This is a temporary homepage. A shiny new web page will be here soon.
 
 ##### Meanwhile...
- - ...you can find more at [Andrew's KCL homepage](https://www.kcl.ac.uk/people/andrew-surman): https://www.kcl.ac.uk/people/andrew-surman
- - ...you can find Andrew's publication list via [ORCID](http://orcid.org/0000-0002-2042-7373): http://orcid.org/0000-0002-2042-7373
- - ...and you can find news via [Twitter](https://twitter.com/andrewjsurman): https://twitter.com/andrewjsurman
+ - ...you can find more at [Andrew's KCL homepage](https://www.kcl.ac.uk/people/andrew-surman). (kcl.ac.uk/people/andrew-surman)
+ - ...you can find [Andrew's publication list](http://orcid.org/0000-0002-2042-7373) via ORCID. (orcid.org/0000-0002-2042-7373)
+ - ...you can find news via [Andrew's Twitter account](https://twitter.com/andrewjsurman). (twitter.com/andrewjsurman)
 
 ***
 ##### Contact:
