@@ -1,11 +1,11 @@
-The Surman Lab is an interdisciplinary research group led by [Andrew Surman](https://www.kcl.ac.uk/people/andrew-surman).
+The Surman Lab is an interdisciplinary research group led by [Andrew Surman](https://www.kcl.ac.uk/people/andrew-surman). You may struggle to Google him: he is not, and never has been, a professional footballer.
 
 We are based in the Department of Chemistry at King's College, London. Our interests are broad, but centre on Supramolecular Chemistry, Systems Chemistry, and Analytical Chemistry. We are applying these as tools to solve practical problems (understanding heterogenous industrial materials, environmental & medical diagnostics) and more fundamental questions (especially around the Origin of Life).
 
-This is a temporary homepage. A shiny new web page will be here soon.
-
-##### Meanwhile...
- - ...you can find more at [Andrew's KCL homepage](https://www.kcl.ac.uk/people/andrew-surman) (kcl.ac.uk/people/andrew-surman).
+***
+#####  Resources
+This is a temporary homepage. A shiny new web page will be here soon. Meanwhile...
+ - ...you can find more about Andrew at [his KCL homepage](https://www.kcl.ac.uk/people/andrew-surman) (kcl.ac.uk/people/andrew-surman).
  - ...you can find [Andrew's publication list](http://orcid.org/0000-0002-2042-7373) via ORCID (orcid.org/0000-0002-2042-7373).
  - ...you can find news via [Andrew's Twitter account](https://twitter.com/andrewjsurman) (twitter.com/andrewjsurman).
 
