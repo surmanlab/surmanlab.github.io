@@ -1,10 +1,19 @@
-# Surman Research Group Homepage
+# Surman Research Group
 
-This is a temporary page. A shiny new web page is on its way soon.
+This is a temporary homepage. A shiny new web page is on its way soon.
 
 Meanwhile...
  - ...you can find Andrew's KCL homepage at: https://www.kcl.ac.uk/people/andrew-surman
  - ...you can find Andrew's publication list via ORCID: http://orcid.org/0000-0002-2042-7373
- - ...you can find news on Twitter: https://twitter.com/andrewjsurman
+ - ...and you  can find news via Twitter: https://twitter.com/andrewjsurman
  
-For more information, email andrew.surman@kcl.ac.uk, or contact: Dr Andrew Surman, KCL Chemistry, 7 Trinity Street, London. SE1 1DB.
+# For more information
+Email: andrew.surman@kcl.ac.uk
+Tel: +44 (0) 20 78481817
+Post: Dr Andrew Surman,
+      Department of Chemistry,
+      King's College, London,
+      7 Trinity Street,
+      London.
+      SE1 1DB.
+      England/UK
