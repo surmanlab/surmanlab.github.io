@@ -20,8 +20,8 @@ We are a growing group, always on the lookout for talented fun colleagues. If yo
 
 ***
 ##### Contact:
-  - Post: __Dr Andrew J Surman__, 1.19 Britannia House, Department of Chemistry, King's College London, 7 Trinity Street, London. SE1 1DB. England/UK. [Map here](https://goo.gl/maps/597uCuYhaNdQ71Uz7)
- - Email: [andrew.surman@kcl.ac.uk](mailto:andrew.surman@kcl.ac.uk)
- - Tel: +44 (0) 20 78481817
+  - __Dr Andrew J Surman__, 1.19 Britannia House, Department of Chemistry, King's College London, 7 Trinity Street, London. SE1 1DB. England/UK. [Map here](https://goo.gl/maps/597uCuYhaNdQ71Uz7)
+ - [andrew.surman@kcl.ac.uk](mailto:andrew.surman@kcl.ac.uk)
+ - +44 (0) 20 78481817
 
 ***
