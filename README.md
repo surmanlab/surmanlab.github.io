@@ -19,8 +19,7 @@ We are based in the Department of Chemistry at King's College, London. Our inter
 
 ***
 #### Contact:
-__Dr Andrew J Surman__  
-[andrew.surman@kcl.ac.uk](mailto:andrew.surman@kcl.ac.uk)  
+__Dr Andrew J Surman__ ([andrew.surman@kcl.ac.uk](mailto:andrew.surman@kcl.ac.uk)  )
 +44 (0) 20 78481817  
 
 Britannia House, Office 1.19 [[Map here]](https://goo.gl/maps/597uCuYhaNdQ71Uz7)  
