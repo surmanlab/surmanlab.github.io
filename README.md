@@ -1,4 +1,4 @@
-The Surman Lab is a Chemistry research group, based in the Department of Chemistry at King's College, London. Out interests are broad, but are focussed around Supramoecular Chemistry, Systems Chemistry, and Analytical Chemistry.
+The Surman Lab is a Chemistry research group, based in the Department of Chemistry at King's College, London. Our interests are broad, but are focussed around Supramoecular Chemistry, Systems Chemistry, and Analytical Chemistry.
 
 This is a temporary homepage. A shiny new web page will be here soon.
 
