@@ -1,6 +1,6 @@
 The Surman Lab is an interdisciplinary research group led by [Andrew Surman](https://www.kcl.ac.uk/people/andrew-surman).
 
-We are based in the Department of Chemistry at King's College, London. Our interests are broad, but centre on Supramolecular Chemistry, Systems Chemistry, and Analytical Chemistry, and a fascination with horrible messes. We are applying these as tools to solve practical problems (understanding heterogenous industrial materials, environmental & medical diagnostics) and more fundamental questions (especially around the Origin of Life).
+We are based in the Department of Chemistry at King's College, London. Our interests are broad, but centre on Supramolecular Chemistry, Systems Chemistry, and Analytical Chemistry, and an affinity for horrible messes nobody else wants to deal with. We are applying these as tools to solve practical problems (understanding heterogenous industrial materials, environmental & medical diagnostics) and more fundamental questions (especially around the Origin of Life).
 
 ***
 ####  Resources:
