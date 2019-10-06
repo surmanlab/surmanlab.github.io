@@ -8,7 +8,7 @@ We are based in the Department of Chemistry at King's College, London. Our inter
  - Andrew's publication list can be found via [Google Scholar](https://scholar.google.co.uk/citations?user=ZiHHfIgAAAAJ&hl=en) or [ORCID](http://orcid.org/0000-0002-2042-7373) (orcid.org/0000-0002-2042-7373).
  - You can keep up-to-date with our news via [Andrew's Twitter account](https://twitter.com/andrewjsurman) (twitter.com/andrewjsurman).
    
-  *n.b. If you're struggling to Google Andrew, try adding the word "Chemistry"; Andrew has never been a professional footballer.*
+  *n.b. If you're struggling to Google Andrew, try adding the word "Chemistry"; Andrew has never been a professional footballer.*  
 ***
 #### Members:
  - __Andrew Surman__
