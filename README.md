@@ -24,6 +24,7 @@ __Dr Andrew J Surman__ ([andrew.surman@kcl.ac.uk](mailto:andrew.surman@kcl.ac.uk
 +44 (0) 20 78481817  
 
 Britannia House, Office 1.19 [[Map here]](https://goo.gl/maps/597uCuYhaNdQ71Uz7)  
+Nearest Tube: Borough (also ca. 10 mins walk from Elephant & Castle, Southwark, and London Bridge)
 
 Department of Chemistry,  
 King's College London,  
