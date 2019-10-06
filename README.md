@@ -13,7 +13,7 @@ We are based in the Department of Chemistry at King's College, London. Our inter
 #### Members:
  - __Andrew Surman__
  - __Edward Cross__ _PhD Student, from October 2019._
- - __Aliyah Saifuddin__ _PhD Student, from October 2019, based in Salehi-Reyhani group, co-supervised by Drs Ulmschneider & Surman._
+ - __Aliyah Saifuddin__ _PhD Student, from October 2019 (Salehi-Reyhani group, co-sup. w/Drs Ulmschneider & Surman)._
  - __Siqi Du__ _Undergrad Researcher, from June 2019._
 
 *We are a growing group, always on the lookout for talented, fun, colleagues. If you’re interested in joining the Surman Lab –  to pursue research studentships, year abroad/Erasmus studies, or a postdoctoral position – feel free to contact Andrew directly.*
