@@ -32,6 +32,6 @@ King's College London,
 London. SE1 1DB.  
 England/UK.  
 
-*n.b. If you're struggling to Google Andrew, try adding the word "Chemistry"; Andrew has never been a professional [footballer](https://www.dropbox.com/s/j7m9lc9qkhdzdoj/bk.pdf?dl=0).*  
+*n.b. If you're struggling to Google Andrew, try adding the word "Chemistry"; Andrew has never been a professional football[er](https://www.dropbox.com/s/j7m9lc9qkhdzdoj/bk.pdf?dl=0).*  
   
 ***
