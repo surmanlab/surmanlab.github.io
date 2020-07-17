@@ -13,7 +13,7 @@ This is a temporary page (we're just getting started). In the meantime, you can 
 #### Members:
  - __Andrew Surman__
  - __Edward Cross__ _PhD Student, from October 2019._
- - __Aliyah Saifuddin__ _PhD Student, from October 2019 (Salehi-Reyhani group, co-sup. w/Drs Ulmschneider & Surman)._
+ - __Aliyah Saifuddin__ _PhD Student, from October 2019 (w/Salehi-Reyhani & Ulmschneider groups)._
  - __Siqi Du__ _Undergrad Researcher, from June 2019._
 
 *We are a growing group, always on the lookout for talented, fun, colleagues. If you’re interested in joining the Surman Lab –  to pursue research studentships, year abroad/Erasmus studies, or a postdoctoral position – feel free to contact Andrew directly.*
@@ -32,6 +32,6 @@ King's College London,
 London. SE1 1DB.  
 England/UK.  
 
-*n.b. If you're struggling to Google Andrew, try adding the word "Chemistry"; Andrew has never been a professional football[er](https://www.dropbox.com/s/j7m9lc9qkhdzdoj/bk.pdf?dl=0).*  
+*n.b. If you're struggling to Google Andrew, try adding the word "Chemistry"; Andrew has never been a professional[footballer](https://www.youtube.com/watch?v=qS0gCvLTdio) or [singer](https://www.youtube.com/watch?v=yQjsi5sBXZg&list=RDyQjsi5sBXZg&index=1).*  
   
 ***
