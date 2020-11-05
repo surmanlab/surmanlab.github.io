@@ -14,7 +14,7 @@ This is a temporary page (we're just getting started). In the meantime, you can 
  - __Andrew Surman__
  - __Edward Cross__ _PhD Student, from October 2019._
  - __Aliyah Saifuddin__ _PhD Student, from October 2019 (w/Salehi-Reyhani & Ulmschneider groups)._
- - __Siqi Du__ _Undergrad Researcher, from June 2019._
+ - __Ivan Alfaro__ _Undergrad Researcher (MSci), from October 2020._
 
 *We are a growing group, always on the lookout for talented, fun, colleagues. If you’re interested in joining the Surman Lab –  to pursue research studentships, year abroad/Erasmus studies, or a postdoctoral position – feel free to contact Andrew directly.*
 
