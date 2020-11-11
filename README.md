@@ -4,7 +4,7 @@ Our interests are broad, but centre on Supramolecular Chemistry, Analytical Chem
 
 ***
 ####  Resources:
-This is a temporary page (we're just getting started). In the meantime, you can find more info here:
+This page will grow as the group grows. In the meantime, you can find more info here:
  - [Andrew's KCL homepage](https://www.kcl.ac.uk/people/andrew-surman) includes a bio, etc. (kcl.ac.uk/people/andrew-surman).
  - Andrew's publication list can be found via [Google Scholar](https://scholar.google.co.uk/citations?user=ZiHHfIgAAAAJ&hl=en) or [ORCID](http://orcid.org/0000-0002-2042-7373) (orcid.org/0000-0002-2042-7373).
  - You can keep up-to-date with our news via [Andrew's Twitter account](https://twitter.com/andrewjsurman) (twitter.com/andrewjsurman).
