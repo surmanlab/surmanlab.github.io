@@ -14,7 +14,7 @@ This page will grow as the group grows. In the meantime, you can find more info 
  - __Andrew Surman__
  - __Edward Cross__ _PhD Student, from late 2019._
  - __Aliyah Saifuddin__ _PhD Student, late 2020._
- - __Ivan Alfaro__ MSci Researcher, from late 2020._
+ - __Ivan Alfaro__ _MSci Researcher, from late 2020._
  - __Dr Blanca Ivonne Vergara Arenas__ _Postdoctoral Researcher, from late 2020._
 
 *We are a growing group, always on the lookout for talented, fun, colleagues. We advertise available positions, but if you’re interested in joining the Surman Lab – to pursue research studentships, year abroad/Erasmus studies, or a postdoctoral fellowship – please get in contact with Andrew directly.*
