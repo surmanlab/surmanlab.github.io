@@ -13,7 +13,7 @@ This page will grow as the group grows. In the meantime, you can find more info 
 #### Members:
  - __Andrew Surman__
  - __Edward Cross__ _PhD Student, from October 2019._
- - __Aliyah Saifuddin__ _PhD Student, from October 2019 (w/Salehi-Reyhani & Ulmschneider groups)._
+ - __Aliyah Saifuddin__ _PhD Student, from 2020._
  - __Ivan Alfaro__ _Undergrad Researcher (MSci), from October 2020._
  - __Dr Blanca Ivonne Vergara Arenas__ _Postdoctoral Researcher, from November 2020._
 
