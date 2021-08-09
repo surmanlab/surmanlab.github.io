@@ -14,7 +14,6 @@ This page will grow as the group grows. In the meantime, you can find more info 
  - __Andrew Surman__ _PI._
  - __Edward Cross__ _PhD Student, from late 2019._
  - __Aliyah Saifuddin__ _PhD Student, late 2020._
- 
  - __Blanca Ivonne Vergara Arenas__ _Postdoctoral Researcher, from late 2020._
  - __Hailey Le__ _UG Researcher, summer 2021._
 
