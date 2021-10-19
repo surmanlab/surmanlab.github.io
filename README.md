@@ -17,7 +17,7 @@ This page will grow as the group grows. In the meantime, you can find more info 
  - __Aliyah Saifuddin__ _PhD Student, from late 2020._
  - __Blanca Ivonne Vergara Arenas__ _Postdoctoral Researcher, from late 2020._
  - __Hailey Le__ _UG Researcher, from summer 2021._
- - __Jose Antonio Morales Serna__ _Marie Curie Fellow/Collaborator, Richarson/Naglik group, KCL, from summer 2021._
+ - __Jose Antonio Morales Serna__ _Marie Curie Fellow/Collaborator (w/Richarson/Naglik group), KCL, from summer 2021._
  - __Esmé Shepherd__ _PhD Student, joint w/Torres M. de Rosales Group (KCL Imaging Chemistry), from autumn 2021._
  - __Siqi Du__ _MSci Student, from autumn 2021._
  - __Khadija Patel__ _MSci Student, from autumn 2021._
