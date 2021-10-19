@@ -11,11 +11,14 @@ This page will grow as the group grows. In the meantime, you can find more info 
    
 ***
 #### Members:
+(in order of arrival in the group()
  - __Andrew Surman__ _PI._
  - __Edward Cross__ _PhD Student, from late 2019._
- - __Aliyah Saifuddin__ _PhD Student, late 2020._
+ - __Aliyah Saifuddin__ _PhD Student, from late 2020._
  - __Blanca Ivonne Vergara Arenas__ _Postdoctoral Researcher, from late 2020._
- - __Hailey Le__ _UG Researcher, summer 2021._
+ - __Hailey Le__ _UG Researcher, from summer 2021._
+ - __Siqi Du__ _MSci Researcher, from autumn 2021._
+ - __Khadija Patel__ _MSci Researcher, from autumn 2021._
 
 *We are a growing group, always on the lookout for talented, fun, colleagues. We advertise available positions, but if you’re interested in joining the Surman Lab – to pursue research studentships, year abroad/Erasmus studies, or a postdoctoral fellowship – please get in contact with Andrew directly.*
 
