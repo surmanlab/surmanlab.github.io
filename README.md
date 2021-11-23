@@ -1,5 +1,3 @@
-***We have a new web page, over at www.surmanlab.com, and this one will no longer be maintained***
-
 The Surman Lab is an interdisciplinary research group led by [Andrew Surman](https://www.surmanlab.com/people/andrew). We are based in the [Department of Chemistry](https://www.kcl.ac.uk/chemistry) at King's College, London. 
 
 ***We have a new web page, over at www.surmanlab.com, and this one will no longer be maintained***
