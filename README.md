@@ -1,30 +1,11 @@
-The Surman Lab is an interdisciplinary research group led by [Andrew Surman](https://www.kcl.ac.uk/people/andrew-surman). We are based in the [Department of Chemistry](https://www.kcl.ac.uk/chemistry) at King's College, London. 
+***We have a new web page, over at www.surmanlab.com, and this one will no longer be maintained***
 
-Our interests are broad, but centre on Supramolecular Chemistry, Analytical Chemistry, Systems Chemistry, and an affinity for horrible messes which nobody else wants to deal with. We are applying these as tools to solve practical problems (understanding heterogenous industrial materials, environmental & medical diagnostics) and more fundamental questions (especially around the Origin of Life).
+The Surman Lab is an interdisciplinary research group led by [Andrew Surman](https://www.surmanlab.com/people/andrew). We are based in the [Department of Chemistry](https://www.kcl.ac.uk/chemistry) at King's College, London. 
 
-***
-####  Resources:
-This page will grow as the group grows. In the meantime, you can find more info here:
- - [Andrew's KCL homepage](https://www.kcl.ac.uk/people/andrew-surman) includes a bio, etc. (kcl.ac.uk/people/andrew-surman).
- - Andrew's publication list can be found via [Google Scholar](https://scholar.google.co.uk/citations?user=ZiHHfIgAAAAJ&hl=en) or [ORCID](http://orcid.org/0000-0002-2042-7373) (orcid.org/0000-0002-2042-7373).
- - You can keep up-to-date with our news via [Andrew's Twitter account](https://twitter.com/andrewjsurman) (twitter.com/andrewjsurman).
-   
-***
-#### Members:
-(in order of arrival in the group)
- - __Andrew Surman__ _PI._
- - __Edward Cross__ _PhD Student, from late 2019._
- - __Aliyah Saifuddin__ _PhD Student, from late 2020._
- - __Blanca Ivonne Vergara Arenas__ _Postdoctoral Researcher, from late 2020._
- - __Hailey Le__ _UG Researcher, from summer 2021._
- - __Jose Antonio Morales Serna__ _Marie Curie Fellow/Collaborator (w/Richarson/Naglik group), KCL, from summer 2021._
- - __Esmé Shepherd__ _PhD Student, joint w/Torres M. de Rosales Group (KCL Imaging Chemistry), from autumn 2021._
- - __Siqi Du__ _MSci Student, from autumn 2021._
- - __Khadija Patel__ _MSci Student, from autumn 2021._
-
-*We are a growing group, always on the lookout for talented, fun, colleagues. We advertise available positions, but if you’re interested in joining the Surman Lab – to pursue research studentships, year abroad/Erasmus studies, or a postdoctoral fellowship – please get in contact with Andrew directly.*
+***We have a new web page, over at www.surmanlab.com, and this one will no longer be maintained***
 
 ***
+
 #### Contact:
 __Dr Andrew J Surman__ ([andrew.surman@kcl.ac.uk](mailto:andrew.surman@kcl.ac.uk))  
 +44 (0) 20 78481817  
